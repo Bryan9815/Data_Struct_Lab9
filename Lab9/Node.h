@@ -7,6 +7,7 @@ private:
 	int data;
 public:
 	Node();
+	Node(int&);
 	~Node();
 
 	int getData(void);

@@ -5,6 +5,11 @@ Node::Node()
 
 }
 
+Node::Node(int& data)
+{
+
+}
+
 Node::~Node()
 {
 
