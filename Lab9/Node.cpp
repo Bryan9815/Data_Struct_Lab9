@@ -7,7 +7,7 @@ Node::Node()
 
 Node::~Node()
 {
-
+	AMASINGOSAIJFOAISJFDOIASJ OIASJD
 }
 
 int Node::getData(void)
